@@ -1,11 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Fauzan! 👋
 
-<image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="1000" alt="Fauzan's GitHub Stats">
+</p>
 
-- 🌱 I’m deepen my learning in Go and TypeScript (For react)
-- 👯 I’m looking to collaborate on React Native Projects
-- 📫 How to reach me: [...](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+### About Me
+- 🌱 Currently deepening my learning in Go and TypeScript (especially for React).
+- 👯 I’m always open to collaborating on exciting React Native projects.
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+### Let's Connect
+- 🚀 Explore my latest projects on [GitHub](https://github.com/takamanu).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
+<!--- 🌐 Visit my [Portfolio](https://yourportfolio.com) for more about me and my work.-->
+
+Happy coding! 🚀✨
 
 <!--
 **takamanu/takamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
