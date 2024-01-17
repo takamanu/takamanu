@@ -1,10 +1,10 @@
 # Hi there, I'm Fauzan! 👋
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="1000" alt="Fauzan's GitHub Stats">
-  </a>
-</p>
+  </p>
+</a>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc">
