@@ -1,11 +1,11 @@
 # Hi there, I'm Fauzan! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="1000" alt="Fauzan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" height="200" width="1000" alt="Fauzan's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" href="https://komarev.com/ghpvc" alt="Profile Views">
 </p>
 
 ### About Me
@@ -14,7 +14,7 @@
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
 </p>
 
 ### Let's Connect
