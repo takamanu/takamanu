@@ -1,11 +1,15 @@
 # Hi there, I'm Fauzan! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" height="200" width="1000" alt="Fauzan's GitHub Stats">
+  <a href=href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="1000" alt="Fauzan's GitHub Stats">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" href="https://komarev.com/ghpvc" alt="Profile Views">
+  <a href="https://komarev.com/ghpvc">
+    <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
 </p>
 
 ### About Me
