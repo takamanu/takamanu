@@ -1,4 +1,4 @@
-### Hi there, I'm Fauzan! 👋
+# Hi there, I'm Fauzan! 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="1000" alt="Fauzan's GitHub Stats">
