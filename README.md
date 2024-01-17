@@ -9,8 +9,8 @@
 </p>
 
 ### About Me
-- 🌱 Currently deepening my learning in Go and TypeScript (especially for React).
-- 👯 I’m always open to collaborating on exciting React Native projects.
+- 🌱 Currently deepening my learning in Go and TypeScript (especially for React Native).
+- 👯 I’m always open to collaborating on exciting Go and React Native projects.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
 
 <p align="center">
