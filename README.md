@@ -11,11 +11,11 @@
     </p>
 </a>
 
-  <div>
-    <a href="https://komarev.com/ghpvc">
+<a href="https://komarev.com/ghpvc">
+    <p align="center">
       <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    </a>
-  </div>
+    </p>
+</a>
 
 ### About Me
 - 🌱 Currently deepening my learning in Go and TypeScript (especially for React Native).
