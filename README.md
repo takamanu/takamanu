@@ -5,7 +5,7 @@
   <!-- Left Section: GitHub Stats -->
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="500" alt="Fauzan's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="300" alt="Fauzan's GitHub Stats">
     </a>
   </div>
 
