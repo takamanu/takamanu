@@ -1,6 +1,25 @@
 # Hi there, I'm Fauzan! 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- Left Section: GitHub Stats -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="500" alt="Fauzan's GitHub Stats">
+    </a>
+  </div>
+
+  <!-- Right Section: Top Languages -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+    </a>
+  </div>
+
+</div>
+
+
+<!--div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="500" alt="Fauzan's GitHub Stats">
@@ -11,13 +30,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
   </div>
 
+
+</div-->
+
   <!--div>
     <a href="https://komarev.com/ghpvc">
       <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
     </a>
   </div-->
-</div>
-
 
 ### About Me
 - 🌱 Currently deepening my learning in Go and TypeScript (especially for React Native).
