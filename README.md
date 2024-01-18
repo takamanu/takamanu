@@ -18,6 +18,14 @@
 
 </div>
 
+<div style="display: flex; flex-direction: row;">
+
+  <!-- Left Section: GitHub Stats -->
+<p>TES</p>
+<p>TES</p>
+
+</div>
+
 
 <!--div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
