@@ -7,7 +7,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="200" width="500" alt="Top Languages">
     </p>
 </a>
 
