@@ -5,13 +5,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="300" alt="Fauzan's GitHub Stats">
     </a>
   </div>
-</div>
-<div dir='ltr'>
-  <div>
+    <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
     </a>
   </div>
+</div>
+<div dir='ltr'>
+  
 </div>
 <div style="display: flex; flex-direction: row;">
 
