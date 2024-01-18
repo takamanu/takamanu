@@ -1,64 +1,26 @@
 # Hi there, I'm Fauzan! 👋
-<div dir='rtl'>
-    <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="300" alt="Fauzan's GitHub Stats">
-    </a>
-  </div>
-    <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="300" alt="Fauzan's GitHub Stats">
+    </p>    
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
-    </a>
-  </div>
-</div>
-<div dir='ltr'>
-  
-</div>
-<div style="display: flex; flex-direction: row;">
-
-  <!-- Left Section: GitHub Stats -->
-
-
-  <!-- Right Section: Top Languages -->
-  
-
-</div>
-
-<div style="display: flex; flex-direction: row;">
-
-  <!-- Left Section: GitHub Stats -->
-<p>TES</p>
-<p>TES</p>
-
-</div>
-
-
-<!--div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="500" alt="Fauzan's GitHub Stats">
-    </a>
-  </div>
+    </p>
+</a>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
-  </div>
-
-
-</div-->
-
-  <!--div>
     <a href="https://komarev.com/ghpvc">
       <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
     </a>
-  </div-->
+  </div>
 
 ### About Me
 - 🌱 Currently deepening my learning in Go and TypeScript (especially for React Native).
 - 👯 I’m always open to collaborating on exciting Go and React Native projects.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
-
-
 
 ### Let's Connect
 - 🚀 Explore my latest projects on [GitHub](https://github.com/takamanu).
