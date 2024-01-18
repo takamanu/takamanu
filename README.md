@@ -1,6 +1,6 @@
 # Hi there, I'm Fauzan! 👋
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; flex-direction: row; align-items: center;">
 
   <!-- Left Section: GitHub Stats -->
   <div>
