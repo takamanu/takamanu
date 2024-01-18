@@ -1,20 +1,25 @@
 # Hi there, I'm Fauzan! 👋
-
-<div style="display: flex; flex-direction: row;">
-
-  <!-- Left Section: GitHub Stats -->
-  <div>
+<div dir='rtl'>
+    <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=takamanu&show_icons=true&theme=tokyonight" height="200" width="300" alt="Fauzan's GitHub Stats">
     </a>
   </div>
-
-  <!-- Right Section: Top Languages -->
+</div>
+<div dir='ltr'>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
     </a>
   </div>
+</div>
+<div style="display: flex; flex-direction: row;">
+
+  <!-- Left Section: GitHub Stats -->
+
+
+  <!-- Right Section: Top Languages -->
+  
 
 </div>
 
