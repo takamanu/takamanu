@@ -1,6 +1,6 @@
 # Hi there, I'm Fauzan! 👋
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row;">
 
   <!-- Left Section: GitHub Stats -->
   <div>
