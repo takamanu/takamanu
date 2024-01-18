@@ -8,10 +8,14 @@
   </div>
 
   <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
+  </div>
+
+  <!--div>
     <a href="https://komarev.com/ghpvc">
       <img src="https://komarev.com/ghpvc/?username=takamanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
     </a>
-  </div>
+  </div-->
 </div>
 
 
@@ -20,9 +24,7 @@
 - 👯 I’m always open to collaborating on exciting Go and React Native projects.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takamanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" href="https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
-</p>
+
 
 ### Let's Connect
 - 🚀 Explore my latest projects on [GitHub](https://github.com/takamanu).
